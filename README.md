@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm BUSHRA</h1>
 <h3 align="center">Security Operations & DFIR Enthusiast</h3>
 
-- 🔭 I’m currently working on Building my skills in Blue Team operations and Security Operations Center (SOC) analysis. [std_sql](https://github.com/bushraJ9/std_sql)
-
 - 🌱 I’m currently learning Improving my defensive security skills and mastering advanced SOC use cases. **SOC Analyst Learning Path**
-
-- 👯 I’m looking to collaborate on Digital forensics, network analysis, SIEM tools, and threat detection. [AI](https://github.com/bushraJ9/Ai)
-
-- 🤝 I’m looking for help with Cybersecurity projects, SOC investigation labs, and incident response simulations. [Hospital-system-for-adding-and-deleting-patients](https://github.com/bushraJ9/Hospital-system-for-adding-and-deleting-patients)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
