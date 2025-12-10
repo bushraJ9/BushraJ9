@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm BUSHRA</h1>
 <h3 align="center">Security Operations & DFIR Enthusiast</h3>
 
-- 🌱 I’m currently learning Improving my defensive security skills and mastering advanced SOC use cases. **SOC Analyst Learning Path**
+ 
+🔭 I’m currently working on:
+Building my skills in Blue Team operations and Security Operations Center (SOC) analysis.
+
+🌱 I’m currently learning:
+Digital forensics, network analysis, SIEM tools, and threat detection.
+
+👯 I’m looking to collaborate on:
+Cybersecurity projects, SOC investigation labs, and incident response simulations.
+
+🤔 I’m looking for help with:
+Improving my defensive security skills and mastering advanced SOC use cases.**SOC Analyst Learning Path**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
